@@ -8,6 +8,9 @@ const Header = () => {
     <header>
       <div className="header_left">
         <Link to="/">
+          {/* <div className="circle">
+            <img src="https://img.freepik.com/free-vector/find-gps-place-colorful-logo-gradient-vector_343694-1184.jpg" alt="" />
+          </div> */}
           <div className="circle">
             <svg
               xmlns="http://www.w3.org/2000/svg"

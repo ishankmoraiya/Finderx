@@ -1,4 +1,5 @@
 .home {
+   
     padding: 5rem;
     padding-top: 0;
     .container {
@@ -7,8 +8,8 @@
         grid-template-columns: 1fr 2.5fr;
         align-items: center;
         justify-content: center;
-        -webkit-user-select: none;
-        gap: 30px;
+        // -webkit-user-select: none;
+        // gap: 30px;
         padding: 2rem;
 
         .image {
@@ -126,7 +127,7 @@
                 align-items: center;
             }
             .upper {
-                -webkit-user-select: none;
+                // -webkit-user-select: none;
                 display: flex;
                 padding: 6.5px;
                 align-items: center;

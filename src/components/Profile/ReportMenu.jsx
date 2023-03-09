@@ -10,7 +10,8 @@ const ReportMenu = () => {
           <div className="report_inner">
             <h1>Report Lost Person</h1>
             <img
-              src="https://images.hindustantimes.com/img/2022/09/16/1600x900/istockphoto-1213374148-612x612_1663327198144_1663327210553_1663327210553.jpg"
+              className="logo"
+              src="https://www.logomoose.com/wp-content/uploads/2009/10/lost.jpg"
               alt=""
             />
             <Link to="/missingreport" className="more">
@@ -32,7 +33,8 @@ const ReportMenu = () => {
           <div className="report_inner">
             <h1>Found Lost Person</h1>
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxF0O8uAtzKX4UR6q6qjLYhDPfmwuoqkoVVQ&usqp=CAU"
+              className="logo"
+              src="https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/banking/logos/Found-logo.png"
               alt=""
             />
             <Link to="/foundmissing" className="more">

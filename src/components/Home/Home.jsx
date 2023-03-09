@@ -12,10 +12,10 @@ const Home = () => {
       <div className="home">
         <div className="container">
           <div className="image">
-            <img src="/missing.jpg" alt="" />
+            <img src="/lostandfound.png" alt="" />
           </div>
           <div className="text">
-            <h2>Report a Missing Person or Found a Missing Person</h2>
+            <h2>Report a Lost Person or Found a Person</h2>
             <p>
               This portal is open 24 hour's. You can submit your report anytime.
             </p>
@@ -48,7 +48,7 @@ const Home = () => {
               />
               <h3>Report</h3>
               <p>
-                You can submit report of missing person and you can also submit
+                You can submit report of lost person and you can also submit
                 a report of found person.
               </p>
             </div>
@@ -60,7 +60,7 @@ const Home = () => {
               <h3>Notified</h3>
               <p>
                 Once your report is submitted you will be notified by email and
-                we will keep you updated about your missing or found report.
+                we will keep you updated about your lost or found report.
               </p>
             </div>
           </div>
@@ -71,7 +71,7 @@ const Home = () => {
             <p>
               We are team of Developer's who are working on this project to help
               the people to find there's missing person and also to help the
-              people who found a missing person. You can simply submit your
+              people who found a lost person. You can simply submit your
               report online through this website and we will keep you updated
               about your report. We will also notify you by email/Mobile number
               once your reeport gets registered. We will try our best to help
