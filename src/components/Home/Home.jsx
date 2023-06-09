@@ -15,7 +15,7 @@ const Home = () => {
             <img src="/lostandfound.png" alt="" />
           </div>
           <div className="text">
-            <h2>Report a Lost Person or Found a Person</h2>
+            <h2>Report a Lost Person or Found a Person hello</h2>
             <p>
               This portal is open 24 hour's. You can submit your report anytime.
             </p>
